@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 01c1bde946c0cce5ba132d4f3867c1e7e6c64ee6 EC2 Default User <ec2-user@ip-172-31-81-28.ec2.internal> 1548122021 +0000	commit (initial): initial commit
+01c1bde946c0cce5ba132d4f3867c1e7e6c64ee6 91b28eb1677d10fd185394c7fee1eacd9a7d5607 tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548293912 +0000	commit: added travis file
+91b28eb1677d10fd185394c7fee1eacd9a7d5607 634c2b4235c06c1385c652f205c5b2251cb23a06 tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548297012 +0000	commit: Added Travis deploy config
+634c2b4235c06c1385c652f205c5b2251cb23a06 2c7cd679390a6e8689499d649f1b9407946aa7a0 tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548297232 +0000	commit: Fix deploy file
+2c7cd679390a6e8689499d649f1b9407946aa7a0 714b4934efbe5aeeeaca94f733180971184ba212 tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548297738 +0000	commit: Fix Dockerfile
+714b4934efbe5aeeeaca94f733180971184ba212 deeb76b2dd37729f7fae6aba0b00afee49a2c2ad tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548297909 +0000	commit: Fix Dockerfile

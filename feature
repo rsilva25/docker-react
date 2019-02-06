@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 deeb76b2dd37729f7fae6aba0b00afee49a2c2ad tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548299171 +0000	branch: Created from HEAD
+deeb76b2dd37729f7fae6aba0b00afee49a2c2ad 11de12e528d75f1f3dc762fb21586782075621a9 tman5 <ec2-user@ip-172-31-81-28.ec2.internal> 1548299216 +0000	commit: changed app text
